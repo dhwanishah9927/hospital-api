@@ -4,13 +4,15 @@ see live on https://hospital-api-5.onrender.com/
 postman:
 1. Doctors Register
  http://localhost:2000/doctors/register
-2. Doctors Login
+https://private-user-images.githubusercontent.com/102378038/268170349-8037ab95-9274-445e-98b0-7fbc4a01ddb4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI5MzM3MDUsIm5iZiI6MTcxMjkzMzQwNSwicGF0aCI6Ii8xMDIzNzgwMzgvMjY4MTcwMzQ5LTgwMzdhYjk1LTkyNzQtNDQ1ZS05OGIwLTdmYmM0YTAxZGRiNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMlQxNDUwMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NjIzZmI2Zjg4MzhlMGQ2MWU3ZmJjMGJjNDk1NGEwMjQ4Mzg5YWNjYTBkZDBjYzVmODZkZDNmZjZjZjM1MGNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CzTo7sCTQVXSnUOOYam3NknN_lGLTE0oeW0tvGybRXM
+
+3. Doctors Login
  http://localhost:2000/doctors/login
-3. Patients Register
+4. Patients Register
  http://localhost:2000/patients/register
-4. Patients Create Report
+5. Patients Create Report
  http://localhost:2000/patients/:id/create_report
-5. Patients All Reports
+6. Patients All Reports
  http://localhost:2000/patients/:id/all_reports
-6. Reports Status
+7. Reports Status
  http://localhost:2000/reports/:status
