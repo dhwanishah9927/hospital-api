@@ -12,7 +12,7 @@
 const mongoose = require('mongoose');
 
 exports.connectMonggose = () => {
-    const mongoURI = 'mongodb://localhost:27017/doctor'; // MongoDB connection URL
+    const mongoURI = 'mongodb+srv://dhwanishah9927:scI30CqjOXht3HKb@cluster0.hhsgtmw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'; // MongoDB connection URL
 
     mongoose.connect(mongoURI, {
             useNewUrlParser: true
