@@ -1,7 +1,7 @@
 # hospital-api
-https://hospital-api-5.onrender.com/
+see live on https://hospital-api-5.onrender.com/
 
-
+postman:
 1. Doctors Register
  http://localhost:2000/doctors/register
 2. Doctors Login
