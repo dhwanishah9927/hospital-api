@@ -1,6 +1,18 @@
 # hospital-api
 see live on https://hospital-api-5.onrender.com/
 
+## Introduction
+App built using Nodejs, Ejs , CSS , JavaScript , Bootstrap .
+It is responsive across all devices.
+
+
+### `Run project`
+shell
+    npm install
+    npm start
+    [http://localhost:2000] view
+
+
 postman:
 1. Doctors Register
  http://localhost:2000/doctors/register
