@@ -26,3 +26,6 @@ postman:
  http://localhost:2000/patients/:id/all_reports
 7. Reports Status
  http://localhost:2000/reports/:status
+
+
+youtube presentation: https://youtu.be/Q8zR8_hQo3o 
